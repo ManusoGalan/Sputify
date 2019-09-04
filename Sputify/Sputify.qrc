@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Sputify">
+    <file>pause_circle.png</file>
+    <file>play_circle.png</file>
+    <file>repeat.png</file>
+    <file>repeat_one.png</file>
+    <file>shuffle.png</file>
+    <file>skip_next.png</file>
+    <file>skip_previous.png</file>
+  </qresource>
+</RCC>
