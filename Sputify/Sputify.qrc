@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="Sputify">
+    <file>missing_art.png</file>
     <file>pause_circle.png</file>
     <file>play_circle.png</file>
     <file>repeat.png</file>
